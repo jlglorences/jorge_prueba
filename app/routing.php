@@ -12,8 +12,6 @@
  * y linea en el 4
  */
 
-echo "hago un echo para hacer algo diferente";
-
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Backend\Init as BackendInit;
