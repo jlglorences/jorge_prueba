@@ -11,6 +11,8 @@
  * Añado comentario en routing
  */
 
+echo "hago un echo para hacer algo diferente";
+
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Backend\Init as BackendInit;
