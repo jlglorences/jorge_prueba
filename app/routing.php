@@ -13,10 +13,6 @@
 
 echo "hago un echo para hacer algo diferente";
 
-/*
- * pongo otro comentario para el 3er commit
- */
-
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Backend\Init as BackendInit;
