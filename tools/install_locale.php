@@ -1,6 +1,10 @@
 <?php
 
 /*
+ * para el tercer commit añado un nuevo campo
+ */
+
+/*
  * This is a simple script to install a locale file.
  *
  * @author Jelmer Snoeck <jelmer.snoeck@wijs.be>

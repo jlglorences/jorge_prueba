@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="44ebeaa1-99fe-43e9-88ce-cb0e08aa686c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/install_locale.php" afterPath="$PROJECT_DIR$/tools/install_locale.php" />
     </list>
     <ignored path="forkcms-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,14 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33256617">
-              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            <state vertical-scroll-proportion="-11.115385">
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
               <folding>
                 <element signature="e#7#95#0#PHP" expanded="true" />
-                <marker date="1465906281845" expanded="true" signature="1840:1881" placeholder="..." />
+                <marker date="1465906692081" expanded="true" signature="1839:1880" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -61,6 +62,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="install_locale.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/install_locale.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.09781358">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#7#59#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -77,6 +90,7 @@
         <option value="$PROJECT_DIR$/src/Api/V1/Init.php" />
         <option value="$PROJECT_DIR$/app/routing.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/tools/install_locale.php" />
       </list>
     </option>
   </component>
@@ -132,6 +146,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="forkcms-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forkcms-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forkcms-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -236,16 +264,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Api/V1/Init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.538462">
-          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-          <folding>
-            <element signature="e#6#46#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/routing.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.307692">
@@ -258,11 +276,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33256617">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        <state vertical-scroll-proportion="-11.115385">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
           <folding>
             <element signature="e#7#95#0#PHP" expanded="true" />
-            <marker date="1465906281845" expanded="true" signature="1840:1881" placeholder="..." />
+            <marker date="1465906692081" expanded="true" signature="1839:1880" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Api/V1/Init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.538462">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+          <folding>
+            <element signature="e#6#46#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/install_locale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09781358">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#59#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
