@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44ebeaa1-99fe-43e9-88ce-cb0e08aa686c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/install_locale.php" afterPath="$PROJECT_DIR$/tools/install_locale.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routing.php" afterPath="$PROJECT_DIR$/app/routing.php" />
     </list>
     <ignored path="forkcms-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,13 +37,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routing.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="routing.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/routing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.307692">
-              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.21518987">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding>
-                <element signature="e#266#311#0#PHP" expanded="true" />
+                <element signature="e#318#363#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="install_locale.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="install_locale.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tools/install_locale.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09781358">
+            <state vertical-scroll-proportion="-3.2692308">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="e#7#59#0#PHP" expanded="true" />
@@ -88,9 +87,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Api/V1/Init.php" />
-        <option value="$PROJECT_DIR$/app/routing.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/tools/install_locale.php" />
+        <option value="$PROJECT_DIR$/app/routing.php" />
       </list>
     </option>
   </component>
@@ -264,16 +263,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/routing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.307692">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-          <folding>
-            <element signature="e#266#311#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.115385">
@@ -281,6 +270,16 @@
           <folding>
             <element signature="e#7#95#0#PHP" expanded="true" />
             <marker date="1465906692081" expanded="true" signature="1839:1880" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/install_locale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#59#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -295,12 +294,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/install_locale.php">
+    <entry file="file://$PROJECT_DIR$/app/routing.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09781358">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.21518987">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding>
-            <element signature="e#7#59#0#PHP" expanded="true" />
+            <element signature="e#318#363#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
