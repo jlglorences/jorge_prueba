@@ -1,6 +1,10 @@
 <?php
 
 /*
+ * añado una linea en el 1er commit
+ */
+
+/*
  * This file is part of Fork CMS.
  *
  * For the full copyright and license information, please view the license
