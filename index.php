@@ -1,24 +1,6 @@
 <?php
 
 /*
- * añado una linea en el 1er commit
- *
- * añado una segunda linea en el commit
- *
- */
-
-/*
- * Ademas abro otro campo para probar bien
- */
-
-echo ("para el tercer commit pongo un echo");
-/*
- *
- * Ademas del echo pongo otra lineapara el 4
- *
- */
-
-/*
  * This file is part of Fork CMS.
  *
  * For the full copyright and license information, please view the license
