@@ -8,6 +8,8 @@
  */
 
 /*
+ * Vamos a crear un conflicto
+ * Esta es la linea 1
  * Vamos a crear el conflicto
  * Linea 2
  */
