@@ -29,11 +29,11 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.21494253">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding>
                 <element signature="e#7#177#0#PHP" expanded="true" />
-                <element signature="e#727#772#0#PHP" expanded="true" />
-                <marker date="1466410411962" expanded="true" signature="1662:1703" placeholder="..." />
+                <element signature="e#716#761#0#PHP" expanded="true" />
+                <marker date="1466410670075" expanded="true" signature="1651:1692" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -118,8 +118,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -254,8 +254,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#7#177#0#PHP" expanded="true" />
-            <element signature="e#727#772#0#PHP" expanded="true" />
-            <marker date="1466410411962" expanded="true" signature="1662:1703" placeholder="..." />
+            <element signature="e#716#761#0#PHP" expanded="true" />
+            <marker date="1466410670075" expanded="true" signature="1651:1692" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -282,8 +282,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#7#177#0#PHP" expanded="true" />
-            <element signature="e#727#772#0#PHP" expanded="true" />
-            <marker date="1466410411962" expanded="true" signature="1662:1703" placeholder="..." />
+            <element signature="e#716#761#0#PHP" expanded="true" />
+            <marker date="1466410670075" expanded="true" signature="1651:1692" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -323,11 +323,11 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21494253">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding>
             <element signature="e#7#177#0#PHP" expanded="true" />
-            <element signature="e#727#772#0#PHP" expanded="true" />
-            <marker date="1466410411962" expanded="true" signature="1662:1703" placeholder="..." />
+            <element signature="e#716#761#0#PHP" expanded="true" />
+            <marker date="1466410670075" expanded="true" signature="1651:1692" placeholder="..." />
           </folding>
         </state>
       </provider>
