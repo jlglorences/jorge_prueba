@@ -11,7 +11,7 @@
  * Vamos a crear un conflicto
  * Esta es la linea 1
  * Vamos a crear el conflicto
- * Linea 2
+ * Linea 2 para un nuevo conflicto
  */
 
 // CLI/Nginx/Cron: We need to set the "current working directory" to this folder

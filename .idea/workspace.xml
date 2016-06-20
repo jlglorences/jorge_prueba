@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44ebeaa1-99fe-43e9-88ce-cb0e08aa686c" name="Default" comment="" />
+    <list default="true" id="44ebeaa1-99fe-43e9-88ce-cb0e08aa686c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <ignored path="forkcms-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,11 +27,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21494253">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.3908046">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
               <folding>
                 <element signature="e#7#177#0#PHP" expanded="true" />
-                <marker date="1466411785446" expanded="true" signature="1703:1744" placeholder="..." />
+                <marker date="1466412492262" expanded="true" signature="1727:1768" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -192,6 +194,31 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
     <configuration />
@@ -207,7 +234,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-17" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22121535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -250,7 +277,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#7#177#0#PHP" expanded="true" />
-            <marker date="1466411785446" expanded="true" signature="1703:1744" placeholder="..." />
+            <marker date="1466412492262" expanded="true" signature="1727:1768" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -277,7 +304,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#7#177#0#PHP" expanded="true" />
-            <marker date="1466411785446" expanded="true" signature="1703:1744" placeholder="..." />
+            <marker date="1466412492262" expanded="true" signature="1727:1768" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -304,7 +331,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#7#177#0#PHP" expanded="true" />
-            <marker date="1466411785446" expanded="true" signature="1703:1744" placeholder="..." />
+            <marker date="1466412492262" expanded="true" signature="1727:1768" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -343,11 +370,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21494253">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.3908046">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding>
             <element signature="e#7#177#0#PHP" expanded="true" />
-            <marker date="1466411785446" expanded="true" signature="1703:1744" placeholder="..." />
+            <marker date="1466412492262" expanded="true" signature="1727:1768" placeholder="..." />
           </folding>
         </state>
       </provider>
