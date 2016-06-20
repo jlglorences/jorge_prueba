@@ -7,6 +7,11 @@
  * file that was distributed with this source code.
  */
 
+/*
+ * Vamos a crear un conflicto
+ * Esta es la linea 1
+ */
+
 // CLI/Nginx/Cron: We need to set the "current working directory" to this folder
 chdir(dirname(__FILE__));
 
