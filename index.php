@@ -9,9 +9,9 @@
 
 /*
  * Vamos a crear un conflicto
- * Esta es la linea 1
+ * Esta es la linea 1 jodiendo desde la 2
  * Vamos a crear el conflicto
- * Linea 2 para un nuevo conflicto
+ * Linea 2 para un nuevo conflicto. A cascarla desde aquí
  */
 
 // CLI/Nginx/Cron: We need to set the "current working directory" to this folder
