@@ -28,9 +28,6 @@ use Common\Exception\RedirectException;
  * @author Dave Lens <dave.lens@wijs.be>
  * @author Wouter Sioen <wouter.sioen@wijs.be>
  */
-
-asdgfsgfr
-
 class ApplicationRouting extends Controller
 {
     const DEFAULT_APPLICATION = 'Frontend';
