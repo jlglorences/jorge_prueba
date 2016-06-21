@@ -14,6 +14,10 @@
  * Linea 2 para un nuevo conflicto. A cascarla desde aquí
  */
 
+/*
+ * Sumo a la linea de antes
+ */
+
 // CLI/Nginx/Cron: We need to set the "current working directory" to this folder
 chdir(dirname(__FILE__));
 
