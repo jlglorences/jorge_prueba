@@ -71,7 +71,7 @@ if (extension_loaded('newrelic')) {
 if ($debug) {
     Debug::enable();
 	7+
-	+7
+	+7 *************************************************
 	+7
 	+7
 	+7
