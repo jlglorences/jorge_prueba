@@ -89,5 +89,16 @@ if ($response->getCharset() === null && $kernel->getContainer() != null) {
         $kernel->getContainer()->getParameter('kernel.charset')
     );
 }
+
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
 $response->send();
 $kernel->terminate($request, $response);
