@@ -104,3 +104,8 @@ if ($response->getCharset() === null && $kernel->getContainer() != null) {
 9
 $response->send();
 $kernel->terminate($request, $response);
+
+/*
+ *
+ * pruebas de Pablo
+ */
